@@ -1,0 +1,650 @@
+@media (min-width:0px) and (max-width:601px){
+     /*====footer====*/
+     .foot-in {
+        display: flex;
+        width: 1000px;
+        margin: auto;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .foot-in ul li { 
+        padding: 3px;
+    }
+    .foot-in ul {
+        padding: 10px;
+    }
+    .language-in {
+        flex-direction: column;
+    }
+    .f-btn {
+        margin: auto;
+        width: 175px;
+        margin-bottom: 20px;
+    }
+    .expect-logo {
+        margin-top: 15px;
+        display: contents;
+    }
+
+    .box-parent {
+        flex-direction: column;
+            align-items: center;
+    }
+    .in-s1 {
+        margin-bottom: 10px;
+    }
+
+    .amazon-india {
+        height: unset;
+        top: 45px;
+        transform: scale(0.5);
+        left: 0;
+        right: 0;
+        background: rgb(255 255 255 / 78%);
+    }
+    .hero {
+        width: auto;
+        height: 104px;
+    }
+    .menubar {
+        max-height: unset;
+        font-size: 12px;
+    }
+    .nav-inner-w {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    nav {
+        height: unset;
+        display: block;
+    }
+    input[type="text"] {
+        width: 100%;
+        padding: 11.5px 38px;
+    }
+    
+    .nav-deliver.border {
+        order: 1;
+    }
+    .right-menu.nav-title.sborder {
+        display: none;
+    }
+    .nav-accountlist:hover .mega-menu{
+        display: none;
+    }
+    .nav-flag:hover .language-dropdown{
+        display: none;
+    }
+    .nav-search{width: 100%;}
+
+    .left-menu {
+        width: unset;
+    }
+
+/*========cart-page=========*/
+.outer-cart.container-fluid.d-flex {
+    flex-direction: column;
+}
+.main-item-cart-img img {
+    width: 90%;
+}
+.left-in-cart {
+    width:unset;
+}
+.cart-bellow-pr-box {
+    display: none;
+}
+.main-item-cart-price {
+     width:unset;}
+.cart-item-text {
+        font-size: 12px;
+    }
+ .right-in-cart {
+        width: unset;
+}
+.subtotalleft{display: none;}
+
+.container-fluid {
+    max-width: 1660px;
+    margin: auto;
+}
+/*========/cart-page=========*/
+
+/*========electronic-cat-page=========*/
+.right-row.h-alined-flex-box {
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: unset;
+}
+.left-selectors {
+    width: unset;
+}
+.inner-categories.d-flex {
+    padding: 10px;
+}
+.right-row .rrc img {
+    width: auto;
+    height: 87%;
+}
+
+
+/*========/electronic-cat-page=========*/
+
+
+
+
+/*========headphones-cat-page=========*/
+.right-row.d-flex {
+    flex-direction: column;
+    height: unset;
+    overflow: unset;
+}
+.item-name-title {
+    font-size: 15px;
+    line-height: 16px;
+}
+
+.right-shop-area {
+    width: 69%;
+}
+.right-row .rrc {
+    min-width: unset;
+}
+.right-row .rrc img {
+    width: 100%;
+    height: auto;
+}
+
+
+
+/*========/headphones-cat-page=========*/
+
+
+/*========keyboard-cat-page=========*/
+.right-row.h-alined-flex-box .res {
+    min-width: unset;
+    max-width: unset;
+}
+.right-row .rrc {
+    min-width: unset;
+    max-height: unset;
+    min-height: unset;
+    height: 180px;
+}
+/*========/keyboard-cat-page=========*/
+
+/*========headsetdetail-cat-page=========*/
+.left-outer-images-box.d-flex {
+    width: 100%;
+    display: block;
+    height: unset;
+    position: inherit;
+}
+.main-img-left-box {
+    width: 270px;
+    margin: auto;
+}
+p.a-size-large {
+    font-size: 14px!important;
+    line-height: 18px!important;
+}
+.left-img-selector-box {
+    display: none;
+}
+.outer-sec-1.d-flex {
+    flex-direction: column;
+}
+.right-outer-content-box.d-flex {
+    flex-direction: column;
+    width: unset;
+}
+.outer-categories.container-fluid.mt10.d-flex {
+    flex-direction: column;
+}
+.con-box.border-top.paddingt8 {
+    width: 100%;
+}
+.con-box.border-top.paddingt14 {
+    width: 100%;
+}
+.img-hr-discription.t-center img {
+    width: 78%;
+}
+.add-banner-bottom.outer-categories.container-fluid.paddingt8.d-flex {
+    display: none;
+}
+.title-brand.container-fluid.mt10.border-top.d-none.paddingt8 {
+    display: none;
+}
+.img-hr-discription.t-center {
+    width: unset;
+    gap: unset;
+    flex-direction: column;
+    align-items: center;
+}
+p.dis-para.paddingt8 {
+    font-size: 11px;
+    line-height: 11px;
+}
+p.dis-para.pdtop {
+    font-size: 11px;
+    line-height: 11px;
+}
+p.dis-title {
+    display: none;
+}
+.left-review-section {
+    width: 46.9%;
+}
+.normal-text-left-fe {
+    width: 72px;
+}
+.Description-text.pdtop {
+    padding-top: 0;
+}
+.right-outer-content-box.d-flex {
+    flex-direction: column;
+    width: unset;
+    align-items: center;
+}
+/*========/headsetdetail-cat-page=========*/
+
+}
+@media (min-width:600px) and (max-width:900px){
+    input[type="text"] {
+        padding: 11.5px;
+    }
+    nav {
+        height: unset;
+        flex-wrap: wrap;
+    }
+    .nav-logo.border {
+        display: block;
+        margin: auto;
+    }
+    .nav-flag:hover .language-dropdown{display: none;}
+    .nav-accountlist:hover .mega-menu{
+        display: none;
+    }
+    .sborder {
+        border:none;}
+        .sborder:hover {
+            border:none;}
+    
+    .hero {
+            width: auto;
+            height: 170px;
+    
+    }
+    .amazon-india {
+        top: 106px;
+        height: unset;
+    }
+    .box-parent {
+        flex-wrap: wrap;
+    }
+    .foot-in {
+        justify-content: space-between;
+        gap: 15px;
+        width: unset;
+        padding: 7px;
+    }
+    .f1 ul li a {
+        font-size: 8px;
+        text-align: center;
+    }
+    .language-in {
+        flex-direction: column;
+        gap: 10px;
+    }
+    .expect-logo {
+        display: flex;
+        width: 450px;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .left-menu {
+        width: unset;
+    }
+    .language-in {
+        margin: 1% 22%;
+    }
+
+
+    /*========cart-page=========*/
+.outer-cart.container-fluid.d-flex {
+    flex-direction: column;
+}
+.main-item-cart-img img {
+    width: 90%;
+}
+.left-in-cart {
+    width:unset;
+}
+.cart-bellow-pr-box {
+    display: none;
+}
+.main-item-cart-price {
+     width:unset;}
+.cart-item-text {
+        font-size: 12px;
+    }
+ .right-in-cart {
+        width: unset;
+}
+.subtotalleft{display: none;}
+
+.container-fluid {
+    max-width: 1660px;
+    margin: auto;
+}
+h3.feature-cart-text-right {
+    width: 100%;
+    margin-bottom: 15px;
+}
+.featured-item-sec.mt20 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.rigth-cart-featured-item {
+    min-width: 390.42px;
+}
+/*========/cart-page=========*/
+
+    
+
+/*========headphones-cat-page=========*/
+
+.right-row.d-flex {
+    height: unset;
+}
+.right-row .rrc {
+    min-width: 220px;
+}
+.right-shop-area {
+    margin-right: 5px;
+}
+.right-row .rlc {
+    padding: 0 0.1%;
+    gap: 2px
+}
+/*========/headphones-cat-page=========*/
+
+
+/*========keyboard-cat-page=========*/
+.right-row .rrc {
+    min-width: 220px;
+    max-width: 220px;
+}
+
+
+.right-row.h-alined-flex-box .res {
+    min-width: unset;
+    max-width: unset;
+}
+/*========/keyboard-cat-page=========*/
+
+
+/*========headsetdetail-cat-page=========*/
+.left-outer-images-box.d-flex {
+    width: 25%;
+}
+/*========/headsetdetail-cat-page=========*/
+
+/*========headsetdetail-cat-page=========*/
+.left-outer-images-box.d-flex {
+    width: 100%;
+    display: block;
+    height: unset;
+    position: inherit;
+}
+.main-img-left-box {
+    width: 320px;
+    margin: auto;
+}
+p.a-size-large {
+    font-size: 14px!important;
+    line-height: 18px!important;
+}
+.left-img-selector-box {
+    display: none;
+}
+.outer-sec-1.d-flex {
+    flex-direction: column;
+}
+.right-outer-content-box.d-flex {
+    flex-direction: column;
+    width: unset;
+}
+.outer-categories.container-fluid.mt10.d-flex {
+    flex-direction: column;
+}
+.con-box.border-top.paddingt8 {
+    width: 100%;
+}
+.con-box.border-top.paddingt14 {
+    width: 100%;
+}
+.img-hr-discription.t-center img {
+    width: 78%;
+}
+.add-banner-bottom.outer-categories.container-fluid.paddingt8.d-flex {
+    display: none;
+}
+.title-brand.container-fluid.mt10.border-top.d-none.paddingt8 {
+    display: none;
+}
+.img-hr-discription.t-center {
+    width: unset;
+    gap: unset;
+    flex-direction: column;
+    align-items: center;
+}
+p.dis-para.paddingt8 {
+    font-size: 16px;
+    line-height: 17px;
+}
+p.dis-para.pdtop {
+    font-size: 16px;
+    line-height: 17px;
+}
+p.dis-title {
+    display: none;
+}
+p.dis-para1 {
+    font-size: 16px;
+}
+.Description-text.pdtop {
+    padding-top: 0px;
+}
+
+.left-review-section {
+    width: 46.9%;
+}
+.normal-text-left-fe {
+    width: 150px;
+}
+.right-title-withprise-box {
+    width: 100%;
+}
+.outer-select-img-color {
+    width: unset;
+}
+.right-box-1-with-price.mb8p {
+    display: none;
+}
+.right-Sponsored-box {
+    width: unset;
+}
+.addbnr-outer.mb8p {
+    display: none;
+}
+.name-item-img-cons.right-box-item-name {
+    padding-bottom: 10px;
+}
+/*========/headsetdetail-cat-page=========*/
+
+
+
+
+
+}
+@media (min-width:900px) and (max-width:1216px){
+
+
+
+    input[type="text"] {
+    width: 100%;
+    padding: 11.5px 287px 11px 0px;
+}
+    .amazon-india{height: unset;}
+    .hero {
+        background-position: center;
+    }
+    .left-menu {
+        width: unset;
+    }
+    .language-in {
+        margin: 1% 18%;
+    }
+    .f1 ul li a {
+        font-size: 13px;
+    }
+    .foot-in {
+        justify-content: center;
+        gap: 30px;
+    }
+    
+
+
+
+    /*========cart-page=========*/
+.outer-cart.container-fluid.d-flex {
+    flex-direction: column;
+}
+.main-item-cart-img img {
+    width: 90%;
+}
+.left-in-cart {
+    width:unset;
+}
+.cart-bellow-pr-box {
+    display: none;
+}
+.main-item-cart-price {
+     width:unset;}
+.cart-item-text {
+        font-size: 12px;
+    }
+ .right-in-cart {
+        width: unset;
+}
+.subtotalleft{display: none;}
+
+.container-fluid {
+    max-width: 1660px;
+    margin: auto;
+}
+h3.feature-cart-text-right {
+    width: 100%;
+    margin-bottom: 15px;
+}
+.featured-item-sec.mt20 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.rigth-cart-featured-item {
+    min-width: 390.42px;
+}
+/*========/cart-page=========*/
+
+/*========headphones-cat-page=========*/
+
+.right-row.d-flex {
+    height: unset;
+}
+.right-row .rrc {
+    min-width: 220px;
+}
+.right-shop-area {
+    margin-right: 5px;
+}
+.right-row .rlc {
+    padding: 0 0.1%;
+    gap: 2px
+}
+/*========/headphones-cat-page=========*/
+
+/*========keyboard-cat-page=========*/
+.right-row .rrc {
+    min-width: 220px;
+    max-width: 220px;
+}
+
+
+.right-row.h-alined-flex-box .res {
+    min-width: unset;
+    max-width: unset;
+}
+
+/*========/keyboard-cat-page=========*/
+
+/*========headsetdetail-page=========*/
+.main-img-left-box {
+    width: 85%;
+}
+.inn-add-banner-box img {
+    width: 100%;
+}
+.inn-add-banner-box {
+    width: 30%;
+    height: auto;
+}
+.inn-add-banner-fixed.d-flex {
+    justify-content: space-around;
+}
+button.scrollerbtn1 {
+    display: none;
+}
+button.scrollerbtn2 {
+    display: none;
+}
+
+
+
+/*========headsetdetail-page=========*/
+
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width:1366px) and (max-width:1920px){
+    .container {
+        max-width: 1920px;
+    }
+    input[type="text"] {
+        width: 100%;
+        padding: 13px 875px 10px 10px;
+    }
+}
+@media (min-width:1366px) and (max-width:1520px){
+
+    input[type="text"] {
+    padding: 13px 581px 10px 10px;
+    }
+}
+@media (min-width:1520px) and (max-width:1600px){
+
+    input[type="text"] {
+        padding: 13px 650px 10px 10px;
+    }
+	
+}
+body{overflow-x: scroll;}

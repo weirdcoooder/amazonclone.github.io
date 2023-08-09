@@ -1,0 +1,177 @@
+@media (min-width:0px) and (max-width:601px){
+     /*====header====*/
+.h-text {
+    font-size: 18px;
+    font-weight: 400;
+}
+.h-fluid.d-flex {
+    padding: 8px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.01), transparent);
+    border-bottom: 1px solid #ddd;
+}
+.header-amazlogo {
+    margin-right: 50px;
+}
+.header-amazlogo img {
+    width: 85px;
+}
+.header-lock-help img {
+    width: 14px;
+}
+.left-main-section {
+    width: 62%;
+    padding: 3px;
+}
+.upper-add-section {
+    display: flex;
+    gap: 18px;
+}
+.ship-text {
+    font-size: 14px;
+    font-weight: 600;
+}
+.address-text {
+    font-size: 12px;
+    color: #333;
+}
+.in-third-add-section {
+    padding: 3px;
+}
+.enter-value {
+    margin-left: 0;
+}
+
+.codeinput {
+    padding: 1px 0 2px 0;
+    font-size: 12px;
+    text-indent: 6px;
+    border-radius: 4px;
+    border: 1px solid #919191;
+    margin-left: 3px;
+}
+.applybtn {
+    border: 1px solid #ddd;
+    color: #0f1111;
+    margin-left: 3px;
+    font-size: 12px;
+    padding: 3px 2px;
+    border-radius: 9px;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.07);
+    cursor: pointer;
+}
+.addcardtext {
+    font-size: 13px;
+    color: #007185;
+    position: relative;
+}
+.addcardtext::after {
+    content: '';
+    position: absolute;
+    border: solid;
+    border-width: 1px 1px 0px 0;
+    transform: rotate(45deg);
+    padding: 2.75px;
+    top: 4px;
+	display:none;
+}
+.left-section-4.mt20.border-bottom.pdbot {
+    padding: 3px;
+}
+.usethispaymentbtn {
+    border: 1px solid #d5bea1;
+    background: #FFFAE0!important;
+    border-radius: 8px;
+    padding: 2px 5px;
+    font-size: 11px;
+    color: #9f9f9f;
+    box-shadow: 0 3px 5px #dbdbdb;
+}
+.rightbtnsec .usethispaymentbtn {
+    font-size: 6px;
+}
+.right-para {
+    font-size: 12px;
+    line-height: 12px;
+    text-align: center;
+    padding-bottom: 3px;
+}
+.right-details-para {
+    font-size: 12px;
+    line-height: 12px;
+    color: #565959;
+    margin-bottom: 10px;
+}
+.sumtext {
+    margin-bottom: 0px;
+}
+.left-order-text {
+    color: #b12704;
+    font-size: 12px;
+}
+.order-total-text {
+    font-size: 12px;
+}
+.detailspararightlast {
+    font-size: 12px;
+    line-height: 14px;
+    color: #0f1111;
+}
+ 	
+
+}
+@media (min-width:600px) and (max-width:900px){
+
+.h-fluid.d-flex {
+    padding: 12px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.01), transparent);
+    border-bottom: 1px solid #ddd;
+}
+
+.usethispaymentbtn {
+    border: 1px solid #d5bea1;
+    background: #FFFAE0!important;
+    border-radius: 8px;
+    padding: 2px 5px;
+    font-size: 11px;
+    color: #9f9f9f;
+    box-shadow: 0 3px 5px #dbdbdb;
+}
+.rightbtnsec .usethispaymentbtn {
+    font-size: 12px;
+}
+
+}
+ 
+} 
+ 
+@media (min-width:900px) and (max-width:1216px){
+	
+
+}
+
+@media (min-width:1366px) and (max-width:1920px){
+ 
+.container {
+    max-width: 1920px;
+    margin: auto;
+}
+ 
+@media (min-width:1366px) and (max-width:1520px){
+
+.container {
+    max-width: 1920px;
+    margin: auto;
+}
+ 
+
+}
+
+@media (min-width:1520px) and (max-width:1600px){
+.container {
+    max-width: 1920px;
+    margin: auto;
+}
+ 
+	
+}
+body{overflow-x: scroll;}
